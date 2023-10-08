@@ -1,0 +1,8 @@
+1>>  WE SUBSTRACT "B" MULTIPLE TIME FROM A TO GET REMAINDER WHEN NUMBER(A) IS POSITIVE AND ADD "B" MULTIPLE TIMES TO GET REMAINDER WHEN NUMBER(A) IS NEGATIVE. 
+
+
+2>> [A % R = B % R] ==> R = |A-B|
+
+3>> (A+B) % M  = ((A % M) + (B % M)) % M
+4>> (A*B) % M  = ((A % M) * (B % M)) % M
+5>> (A-B) % M  = ((A % M) - (B % M) + M ) % M

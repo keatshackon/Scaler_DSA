@@ -1,0 +1,178 @@
+1>	IF YOU WANT TO SORT THE DATA WITH YOUR OWN CONSTRAINT THEN USE
+	COMPARATOR FUNCTION.[DAY 20]
+
+
+2>	long long ans  = stoll("101011",nullptr,2); this peice of code can use to convert numberic string into deciaml number,
+	last parameter is base [binary/decimal].
+
+3>	public class Solution {
+    	public boolean isPowerOfThree(int n) {
+        	return n > 0 && 1162261467 % n == 0;
+    	}
+	}
+
+4>	cyclic sort: IT IS ONLY USED WHEN NUMBER IF PRESENT FROM 0 TO N IN "N" SIZED ARRAY AND HERE IS THE PEICES OF CODE
+
+	for(int i = 0;i < indices.size();i++){
+        while(indices[i] != i){      
+            swap(indices[i],indices[indices[i]]);
+        }
+    } 
+
+5>	gcd(a,1) = 1 And gcd(a,0) = a.
+
+6>	TIME COMPLEXITY = NUMBER OF RECUSIVE CALL * TIME COMPLEXITY OF ONE RECUSIVE CALL.
+
+7>  MULTIPLYING TWO INTEGER WILL RESULT INTEGER[REMEMBERING THE POW FUNCTION QUESTION]
+
+8>	IN BINARY SEARCH QUESTION ASK WEATHER THE INPUT IS IN RANGE OR IN ARRAY.
+
+9>	PRO TIPS  : 98 PERCENT OF BINARY PROBLEM TIME COMPELXITY WOULD BE N*LOG(N)
+	WHEN IT COMES TO SEARCH IN SEARCH SAPCES.(BECAUSE CHECK FUNCITION TAKE SOME MORE
+	TIME THAN NORMAL UNLIKE IN BS IN ARRAY PROBLEM).
+
+10>	stable_partition(stable_partition(begin(n), end(n), [&](int n){ return n < p; }), end(n), [&](int n){ return n == p; });
+
+11>	copy_if(begin(n), end(n), back_inserter(res), [&](int n){ return n > p; });	
+
+12> {{  whenever u take mod then only use modular property to do operation otherwise answer would be wrong
+	to understand see the question two sum ll }}.
+
+13	Divyanshu Gairola : can we consider it as previously we are doing arr[i] + arr[j] 
+	but now we are doing arr[i] - arr[j]
+	as sign of arr[j] is reversed pointer direction will only reverse?
+
+14> 	Besides, as a bonus, it generates lexicographically sorted output for the sorted inputs using bitmasking method.
+
+15>	sort(idx.begin(), idx.end(), [&](int i, int j) {
+            return heights[i] > heights[j];
+        });
+
+16>	we can sort the map based on second value but we can copy into the vector and then sort based on second value; 
+
+17>	vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
+        
+        vector<int> idx(names.size());
+        for (int i = 0; i < names.size(); ++i) {
+            idx[i] = i;
+        }
+        // u can use entirely different entity in sort laamda function, here using height vector.
+        sort(idx.begin(), idx.end(), [&](int i, int j) {
+            return heights[i] > heights[j];        // here
+        });
+        
+        
+        vector<string> ans(names.size());
+        for (int i = 0; i < names.size(); ++i) {
+            ans[i] = names[idx[i]];
+        }
+        return ans;
+    }
+
+18>	TO CLEAR THE MAP USE CLEAR() FUNCTION.
+
+19>	In general for identifying stack ques we have to identify if these 3 operations[insertion,deletion,search] are being used.
+
+20>	TREE DOES NOT HAVR CYCLE AND HAVE ONLY ONE PARENT.
+
+21> IF THERE ARE N NODE THEN THERE IS N-1 EDGES WILL PRESENT IN TREE.
+
+
+21> A LOT OF TREE QUESTION CAN BE DONE IF U R GOOD AT TRAVERSAL 
+
+=======================================================================		BACKTRACK 	===========================================
+
+22>	IF DUPLICATE ELEEMENT FOUND IN VECTOR U CAN USE FOR LOOP WALA METHOD TO SOLVE THE PROBLEM TO AVOID DUPLICATE ANS.
+	IT CAN USE IN BOUNDED AS WELL AS UNBOUNDED CASE.
+	
+=======================================================================	   	GRAPH 	=======================================
+
+1>	CAN USE THE TOPOSHORT TO FIDN THE SHORTEST PATH FROM ANY SOURCES INSTEAD OF DIJKSTRA.
+
+2>	DIJKSTRA CAN'T APPLY WHEN IT CONTAIN THE NEGATIVE EDGE AS WELL AS NEGATIVE CYCLE.
+
+3>	In dijkshtra algo use SET[improved a bit execution time] rather than priority queue as set give us liberty to delet the element.[striver bhai].
+
+4>	To detect the negative cycle we can use bellman ford as well as floyd warshal alogrithm!
+
+5>	IF IN QUESTION GIVEN THAT THE GRAPH DON'T CONTAIN THE NEGATIVE CYCLE THEN U CAN USE DIJKSTRA RATHER THAN FLOYD WARSHAL AS TC IS BETTER IN DIJKSTRA THAN FLOYD.
+
+6>	FLOYD IS USE FOR FINDING THE SHORTEST PATH FROM ALL SRC TO ALL OTHER  NODES.
+
+7>	IF UNDIRECTED GRAPH GIVEN THEN FIRST CONVERT IT INTO DIRECTED GRAPH WITH SAME EDGE WEIGHT IN ADJENCY MATRIC IN FLOYAD WARSHAL ALGO.
+
+8>  USING QUEUE CAN INCREASE THE TIME COMPLEXITY IN DIJKSTRA ALGORITHM AS CONSIDERE ALL PATH BY TAKING ALL NODES.
+
+9>	sort(begin(score), end(score), [&](auto &s1,auto &s2){ return s1[k] > s2[k]; });
+
+10>	TO DETECT NEGATIVE CYCLE IN GRAPH USING FLOYAD WARSH ALGORITHM CHECK ITS DIAGONAL IF IT NEGATIVE THEN GRAPH CONTAIN NEGATIVE CYCLE AS DISTANCE FROM I TO I ITSELF IS 
+	ALWAYS ZERO.
+	
+11>	WE CAN USE DIJKSTRA ALGORITHM TO FIND MULTI SOURCES SHORTEST PATH BY INTERATING ALL THE NODE BUT IT ONLY HAPPEN OF THE GRAPH DON'T CONTAIN ANY NEGATIVE CYCLE.
+
+=======================================================================       	DP          =======================================================
+
+1>	// WHEN WE HAVE TO CHOOSE MIN/MAX STEPS OUT OF MORE THAN TWO OPTIONS USE THIS TEMPLATE.[DP SESSION 1, A3]
+	int mini = INT_MAX;
+    // ITERATING OVER ALL THE POSSIBLE ANS AND THEN TAKING MIN OUT OF THEM.
+	for (int i = 1; i * i <= n; i++) {
+		mini = min(mini, solve(n - (i * i), dp));
+	}
+	return dp[n] = 1 + mini;
+	
+	
+2>	
+
+=======================================================================       	HEAP          =======================================================
+
+1>	FOR DATA STREAM WALA PROBLEM WE CAN USE INSERTION SORT TO SORT THE DATA IN N^2 TIME WHICH IS BETTER THAN HEAP SORT AND THEN FIND MEDIAN.
+
+
+
+
+
+
+=======================================================================       SLIDING WINDOW          =======================================================
+
+1>	GENERALLY THERE ARE TWO TYPE OF QUESTION ASKED IN SW[SLIDING WINDOW] IN ONE TYPE WINDOW SIZE IS GIVEN WHIC IS ALSO CALLED FIXED WINDOW TYPE QUESTION
+	AND IN SECOND TYPE SOME KIND OD DATA IS GIVEN AND WE HAVE TO FIND THE WINDOW SIZE WHICH IS CALLED VARIABLE TYPE WS QUESTIONS.
+	
+2>	IN SW WE FIRST PREPARED THE DATA FOR K WINDOW AND THEN WE ITERATE OVER N-K SIZE ARRAY.
+
+3>	
+
+
+
+=======================================================================       MATHS         =======================================================
+
+1>	IF ANSWER COME NEGATIVE THEN ADD MODULO TO IT WHILE TAKING THE MODULO OF ANSWER.
+
+
+
+
+=======================================================================       HASHING         =======================================================
+
+1>	WE CAN USE ROLLING HASH TECHNIQUE TO COMPARE TWO STRING IF INTERVIWER NOT ALLOW US TO COMPARE STRING CHARACTER BY CHARACTER CHECK QUESTION 1 OF HASHING-3[SESSION] OF SCALER. 
+
+2>	KMP algorithm and Z algorithm have similar time complexities and can be used interchangeably but the use of Z algorithm should be preferred as 
+	Tt is easier to code and understand and even debugging the Z array is easier than debugging the auxiliary array in KMP.
+
+
+3>	QUESTION WHICH CAN BE SOLVE BY KMP CAN ALSO BE SOLVE BY Z ALGORITHM.
+
+4>	RABIN KARP USE ROLLING HASH TO FIND THE PATTERN SEE HASH-2 SEASION VEDIO OF SCALER.
+
+5>	 RABIN KARP TAKES O(N) TIME COMPLEXITY AND CONSTANT SPACE WHICH IS ACTUALLY BETTER THAN OTHER TWO STRING PATTERN MATCHING ALGOS [Z ALGORITHM AND KMP].
+
+6>	 RABIN KARP IS AROUND 99% ACCURATE BUT TIME EFFICIENT BUT KMP AND Z ALGORITHM IS 100 PERCENT ACCURATE.
+
+
+
+=======================================================================       BINARY SEARCH         =======================================================
+
+1>	MAXIMIZING THE MINIMUM OR MINIMIZE THE MAXIMUM TYPE OF QUESTION CAN BE DONE BY BINARY SEARCH.
+
+
+=======================================================================       TRIES     =======================================================
+
+1>	TRIES IS ALSO CALLED N-ARRAY TREE AND ALSO CALLED PREFIX TREE.

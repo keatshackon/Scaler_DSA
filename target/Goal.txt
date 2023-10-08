@@ -1,0 +1,474 @@
+										COUNT OF TOTAL SOLVED PROBLEM : 150
+										====================================
+
+
+
+========================================================================== DAY 0 ======================================================== start from 07/08/2022   
+
+1> 	https://www.scaler.com/academy/mentee-dashboard/class/30053/assignment/problems/10754?navref=cl_tt_lst_nm
+
+2> 	https://leetcode.com/problems/number-of-good-pairs/
+
+========================================================================== DAY 1 ========================================================
+
+1>	https://leetcode.com/problems/decode-the-message/submissions/
+
+2>	https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/submissions/
+
+3>	https://leetcode.com/problems/sum-of-all-odd-length-subarrays/    FOLLOW UP QUESTIONS [o(n^3) for easy] and O(N) for medium level problem.
+
+========================================================================== DAY 2 ========================================================
+
+1>	https://leetcode.com/problems/find-the-highest-altitude
+
+2>	https://leetcode.com/problems/build-array-from-permutation	
+
+3> 	https://www.scaler.com/academy/mentee-dashboard/class/30053/assignment/problems/201?navref=cl_tt_lst_nm
+
+
+========================================================================== DAY 3 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/30054/assignment/problems/4367/submissions
+
+
+========================================================================== DAY 4 ========================================================
+
+		All unique question from 17th june  + 21 = total question from 17th june till u saw now
+
+========================================================================== DAY 5 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/30056/assignment/problems/11757/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/30056/homework/problems/11755/submissions	
+
+
+========================================================================== DAY 6 ========================================================
+
+1>	https://leetcode.com/problems/maximum-product-of-three-numbers/
+
+2>	https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/
+
+3>	https://leetcode.com/problems/range-sum-query-immutable/submissions/
+
+
+========================================================================== DAY 7 ========================================================
+
+1>	https://leetcode.com/problems/shuffle-the-array
+
+2>	https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34155/homework/problems/1247?navref=cl_tt_nv
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/34155/homework/problems/4831/submissions
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34155/homework/problems/12555?navref=cl_tt_nv
+
+6>	====> THREE PROBLEM FROM CONTEST <==========
+
+
+========================================================================== DAY 8 ========================================================
+
+1>	https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/
+
+2>	https://leetcode.com/problems/number-of-arithmetic-triplets/
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/30056/assignment/problems/214?navref=cl_tt_nv
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/30056/assignment/problems/222?navref=cl_tt_nv
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/30056/assignment/problems/229/?navref=cl_pb_nv_tb
+
+========================================================================== DAY 9 ========================================================
+
+1>	https://leetcode.com/problems/decode-xored-array/submissions/
+
+2>	https://leetcode.com/problems/flipping-an-image/submissions/
+
+3>	https://leetcode.com/problems/roman-to-integer/submissions/
+
+
+========================================================================== DAY 10 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34155/assignment/problems/9990/submissions
+
+2>	https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/30051/assignment/problems/160/?navref=cl_pb_nv_tb
+
+
+========================================================================== DAY 11 ========================================================
+
+
+1>	https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/submissions/
+
+2>	https://leetcode.com/problems/sum-of-all-subset-xor-totals/submissions/
+
+3>	https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/
+
+
+========================================================================== DAY 12 ========================================================
+
+1>	https://leetcode.com/problems/add-two-integers/
+
+2>	https://leetcode.com/problems/rotate-string/submissions/
+
+3>	https://leetcode.com/problems/longest-palindrome/
+
+4>	https://leetcode.com/problems/longest-palindromic-substring/submissions/     [MEDIUM]
+
+
+========================================================================== DAY 13 ========================================================
+
+1>	https://leetcode.com/problems/sorting-the-sentence/
+
+2>	https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+
+3>	https://leetcode.com/problems/maximum-subarray/submissions/            [MEDIUM]
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/30040/homework/problems/16123/?navref=cl_pb_nv_tb    [MEDIUM]
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/30041/assignment/problems/11464/?navref=cl_pb_nv_tb 
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/30041/assignment/problems/293/?navref=cl_pb_nv_tb
+
+
+========================================================================== DAY 14 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/30041/assignment/problems/55/?navref=cl_pb_nv_tb
+
+2>	https://leetcode.com/problems/encode-and-decode-tinyurl/submissions/       [MEDIUM]
+
+3>	https://leetcode.com/problems/add-digits/submissions/
+
+4>	https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/30042/homework/problems/11549/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/30049/homework/problems/176/?navref=cl_pb_nv_tb
+
+7>	https://leetcode.com/problems/longest-common-prefix/submissions/
+
+8>	https://leetcode.com/problems/count-good-triplets/
+
+
+========================================================================== DAY 15 ========================================================
+
+1>	https://leetcode.com/problems/isomorphic-strings/submissions/
+
+2>	https://leetcode.com/problems/word-pattern/
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/30053/assignment/problems/10359/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/30042/assignment/problems/4256?navref=cl_tt_lst_nm
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34448/assignment/problems/56/?navref=cl_pb_nv_tb
+
+
+========================================================================== DAY 16 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34448/assignment/problems/440/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34448/homework/problems/66/?navref=cl_pb_nv_tb
+
+3>	https://leetcode.com/problems/find-pivot-index/
+
+4>	https://leetcode.com/problems/is-subsequence/
+
+5>	https://leetcode.com/problems/unique-email-addresses/
+
+========================================================================== DAY 17 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34448/assignment/problems?navref=cl_tt_nv       [HARD]
+
+
+========================================================================== DAY 19 ========================================================
+
+1>	https://leetcode.com/problems/middle-of-the-linked-list/
+
+========================================================================== DAY 20 ========================================================
+
+1>	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34451/assignment/problems/65/?navref=cl_pb_nv_tb    [MED]
+
+========================================================================== DAY 21 ========================================================
+
+1>	https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+
+2>	https://leetcode.com/problems/shortest-distance-to-a-character/
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34451/assignment/problems/58/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/34451/assignment/problems/5784/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34449/assignment/problems/4091/?navref=cl_pb_nv_tb
+
+========================================================================== DAY 22 ========================================================
+
+1>	https://leetcode.com/problems/rotate-image/    [MED]
+
+========================================================================== DAY 23 ========================================================
+
+1>	https://leetcode.com/problems/add-binary/
+
+2>	https://leetcode.com/problems/add-to-array-form-of-integer/
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34453/assignment/problems/193/?navref=cl_pb_nv_tb
+
+
+========================================================================== DAY 24 ========================================================
+
+1>	https://leetcode.com/problems/first-letter-to-appear-twice/
+
+2>	https://leetcode.com/problems/split-a-string-in-balanced-strings/
+
+========================================================================== DAY 25 ========================================================
+
+1>	https://leetcode.com/problems/destination-city/
+
+2>	https://leetcode.com/problems/strong-password-checker-ii/
+
+========================================================================== DAY 26 ========================================================
+
+1>	https://leetcode.com/problems/power-of-three/
+
+========================================================================== DAY 27 ========================================================
+
+1>	https://leetcode.com/problems/determine-if-string-halves-are-alike/
+
+2>	https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+
+3>	https://leetcode.com/problems/valid-palindrome/
+
+4>	https://leetcode.com/problems/max-consecutive-ones/
+
+5>	https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
+
+6>	https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+
+
+========================================================================== DAY 28 ========================================================
+
+1>	https://leetcode.com/problems/count-items-matching-a-rule/
+
+2>	https://leetcode.com/problems/replace-all-digits-with-characters/
+
+3>	https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+
+4>	https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+
+5>	https://leetcode.com/problems/unique-morse-code-words/
+
+
+========================================================================== DAY 29 ========================================================
+
+1>	https://leetcode.com/problems/shuffle-string/
+
+========================================================================== DAY 30 ========================================================
+
+1>	https://leetcode.com/problems/find-the-difference/
+
+
+========================================================================== DAY 32 ========================================================
+
+1>	https://leetcode.com/problems/largest-local-values-in-a-matrix/
+
+========================================================================== DAY 33 ========================================================
+
+1>	https://leetcode.com/problems/count-asterisks/
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34458/assignment/problems/5840/?navref=cl_pb_nv_tb
+
+
+========================================================================== DAY 35 ========================================================
+
+1>	https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+
+
+========================================================================== DAY 36 ========================================================
+
+1>	https://leetcode.com/problems/reverse-vowels-of-a-string/
+
+2>	https://leetcode.com/problems/contains-duplicate-ii/
+
+========================================================================== DAY 37 ========================================================
+
+1>	https://leetcode.com/problems/pascals-triangle/submissions/
+
+2>	https://leetcode.com/problems/detect-capital/
+
+
+========================================================================== DAY 38 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34477/assignment/problems/10754/submissions
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34477/homework/problems/10754/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34477/homework/problems/10753/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/34477/homework/problems/10766/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34477/homework/problems/10755/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/34477/homework/problems/9307/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/34477/assignment/problems/10359/?navref=cl_pb_nv_tb
+
+
+========================================================================== DAY 40 ========================================================
+
+1>	https://leetcode.com/problems/trapping-rain-water/         [HARD]
+
+
+========================================================================== DAY 41 ========================================================
+
+1>	https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+
+2>	https://leetcode.com/problems/find-the-difference-of-two-arrays/
+
+========================================================================== DAY 42 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34458/assignment/problems/201/?navref=cl_pb_nv_tb
+
+========================================================================== DAY 43 ========================================================
+
+1>	https://leetcode.com/problems/find-target-indices-after-sorting-array/
+
+========================================================================== DAY 44 ========================================================
+
+1>	https://leetcode.com/problems/smallest-even-multiple/
+
+2>	https://leetcode.com/problems/di-string-match/
+
+========================================================================== DAY 45 ========================================================
+
+1>	https://leetcode.com/problems/find-smallest-letter-greater-than-target/	
+
+2>	https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
+
+========================================================================== DAY 46 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34477/assignment/problems/201/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34487/assignment/problems/4072/?navref=cl_pb_nv_tb
+
+3>	https://leetcode.com/problems/arranging-coins/
+
+========================================================================== DAY 47 ========================================================
+
+1>	https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+
+2>	https://leetcode.com/problems/peak-index-in-a-mountain-array/     [MED]
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34507/assignment/problems/200/?navref=cl_pb_nv_tb
+
+
+========================================================================== DAY 48 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34505/assignment/problems/204/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34505/assignment/problems/4132/?navref=cl_pb_nv_tb
+
+========================================================================== DAY 49 ========================================================
+
+1>	https://leetcode.com/problems/reverse-prefix-of-word/
+
+2>	https://leetcode.com/problems/climbing-stairs/
+
+3>	https://leetcode.com/problems/n-th-tribonacci-number/
+
+4>	https://leetcode.com/problems/transpose-matrix/
+
+========================================================================== DAY 50 ========================================================
+
+1>	https://leetcode.com/problems/palindrome-linked-list/
+
+2>	https://leetcode.com/problems/first-missing-positive/		[HARD]
+
+3>	https://leetcode.com/problems/find-the-duplicate-number/    [MED]
+
+4>	https://leetcode.com/problems/product-of-array-except-self/  [MED]
+
+========================================================================== DAY 51 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34519/homework/problems/167/?navref=cl_pb_nv_tb  [MED]
+
+2>	https://leetcode.com/problems/sort-colors/   [MED]
+
+========================================================================== DAY 52 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34519/homework/problems/165/?navref=cl_pb_nv_tb  [MED] [REP]
+
+2>	https://leetcode.com/problems/3sum-closest/		[MED]
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34519/assignment/problems/170/?navref=cl_pb_nv_tb [MED] [REP]
+
+4>	https://leetcode.com/problems/3sum/   [MED]
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34519/assignment/problems/4114/?navref=cl_pb_nv_tb
+
+
+========================================================================== DAY 53 ========================================================
+
+1>	https://leetcode.com/problems/check-distances-between-same-letters/
+
+2>	https://leetcode.com/problems/partition-array-according-to-given-pivot/   [MED]
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34519/assignment/problems/5097/?navref=cl_pb_nv_tb  [MED]
+
+========================================================================== DAY 54 ========================================================
+
+1>	https://leetcode.com/problems/move-zeroes/
+
+========================================================================== DAY 55 ========================================================
+
+1>	https://leetcode.com/problems/sqrtx/
+
+2>	https://leetcode.com/problems/valid-perfect-square/
+
+3>	https://leetcode.com/problems/sum-of-square-numbers/
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/34524/homework/problems/11859/?navref=cl_pb_nv_tb
+
+
+========================================================================== 13/01/23 ========================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/44251/assignment/problems/148/?navref=cl_pb_nv_tb			[MED]
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/44251/homework/problems/147/?navref=cl_pb_nv_tb				[MED]
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/44251/homework/problems/146/?navref=cl_pb_nv_tb				[MED]
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44253/homework/problems/140/?navref=cl_pb_nv_tb				[MED]
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/44253/homework/problems/136/?navref=cl_pb_nv_tb				[MED]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

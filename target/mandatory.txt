@@ -1,0 +1,395 @@
+													TOTAL PROBLEMS SOLVED : 158
+									=================================================================================
+
+
+
+
+========================================================   14/1/23 ==================================================
+
+1>	https://leetcode.com/problems/letter-case-permutation/
+
+2>	https://leetcode.com/problems/permutations-ii/
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/44251/assignment/problems/138/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44251/session?navref=cl_tb_br
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34155/assignment/problems/148/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/30051/homework/problems/10602/?navref=cl_pb_nv_tb
+
+7>	https://leetcode.com/problems/verifying-an-alien-dictionary/
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/30046/assignment/problems/14605/?navref=cl_pb_nv_tb
+
+9>	https://leetcode.com/problems/number-of-islands/
+
+10>	https://leetcode.com/problems/flood-fill/
+
+========================================================   17/1/23 ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/44269/assignment/problems/9359/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/44269/homework/problems/4702?navref=cl_tt_lst_nm
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/44273/homework/problems/9327/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44271/assignment/problems/11843/?navref=cl_pb_nv_tb
+
+5>	https://leetcode.com/problems/rotting-oranges/
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/44271/assignment/problems/4704/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/44271/assignment/problems/4811/?navref=cl_pb_nv_tb
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/44271/homework/problems/4705/?navref=cl_pb_nv_tb
+
+9>	https://leetcode.com/problems/01-matrix/
+
+10>	https://leetcode.com/problems/surrounded-regions/
+
+========================================================   18/1/23 ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/44271/assignment/problems/9358/?navref=cl_pb_nv_tb
+	
+2>	https://leetcode.com/problems/course-schedule/
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/44273/assignment/problems/377/?navref=cl_pb_nv_tb
+
+4>	https://leetcode.com/problems/course-schedule-ii/
+
+5>	https://leetcode.com/problems/is-graph-bipartite/
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/44273/assignment/problems/4706/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/44277/assignment/problems/4706?navref=cl_tt_lst_nm
+
+
+========================================================   AFTER THEORY COMPLETE [30/01/23] ==================================================
+
+1>	https://leetcode.com/problems/redundant-connection/
+
+2>	https://leetcode.com/problems/number-of-enclaves/
+
+3>	https://leetcode.com/problems/number-of-provinces/
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44275/assignment/problems/4974/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/44275/assignment/problems/376/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/44275/assignment/problems/9240/?navref=cl_pb_nv_tb
+
+7>	https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+
+
+========================================================   AFTER THEORY COMPLETE [31/01/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/44273/assignment/problems/9328/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/44273/homework/problems/13064/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/44277/assignment/problems/4699/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44275/homework/problems/292/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/44277/homework/problems/369/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/44255/assignment/problems/278/?navref=cl_pb_nv_tb
+
+7>	https://leetcode.com/problems/maximum-product-subarray/
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/44255/homework/problems/9/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/44255/homework/problems/10?navref=cl_tt_nv
+
+10>	https://leetcode.com/problems/decode-ways/
+
+
+========================================================   AFTER THEORY COMPLETE [4/02/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/44255/assignment/problems/600?navref=cl_tt_nv
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/44257/assignment/problems/8/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/44257/homework/problems/19/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44257/assignment/problems/25/?navref=cl_pb_nv_tb
+
+5>	https://leetcode.com/problems/minimum-path-sum/
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/44257/assignment/problems/17/?navref=cl_pb_nv_tb
+
+7>	https://leetcode.com/problems/dungeon-game/
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/44257/homework/problems/1065/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/44257/assignment/problems/368/?navref=cl_pb_nv_tb
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/44261/assignment/problems/9347/?navref=cl_pb_nv_tb
+
+
+========================================================   AFTER THEORY COMPLETE [10/02/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/44259/assignment/problems/9292/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/44259/assignment/problems/9340/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/39854/assignment/problems/49/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/39854/homework/problems/4349/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/44257/homework/problems/6/?navref=cl_pb_nv_tb
+
+6>	https://leetcode.com/problems/coin-change-ii/
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/44261/assignment/problems/319/?navref=cl_pb_nv_tb
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/44259/homework/problems/4806/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/44261/assignment/problems/9318/?navref=cl_pb_nv_tb
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/44263/assignment/problems/4438/?navref=cl_pb_nv_tb
+
+
+========================================================   AFTER THEORY COMPLETE [13/02/23] ==================================================
+
+1>	https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/44265/assignment/problems/4441?navref=cl_tt_lst_nm
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/44263/assignment/problems/21/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44261/homework/problems/7/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/44265/assignment/problems/4441/?navref=cl_pb_nv_tb
+
+6>	https://leetcode.com/problems/distinct-subsequences/
+
+7>	https://leetcode.com/problems/wildcard-matching/
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/44265/assignment/problems/4822/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/44267/assignment/problems/11/?navref=cl_pb_nv_tb
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/44267/assignment/problems/14/?navref=cl_pb_nv_tb
+
+	
+========================================================   AFTER THEORY COMPLETE [20/02/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/44249/assignment/problems/9291/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/44249/homework/problems/4669/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/44249/assignment/problems/9294/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44249/homework/problems/290/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/44249/assignment/problems/3/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/44249/homework/problems/1036/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/44249/assignment/problems/282/?navref=cl_pb_nv_tb
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/44253/assignment/problems/141/?navref=cl_pb_nv_tb
+
+9>	https://leetcode.com/problems/valid-sudoku/
+
+10>	https://leetcode.com/problems/sudoku-solver/
+
+========================================================   AFTER THEORY COMPLETE [26/02/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/44253/assignment/problems/143/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/44245/assignment/problems/4385/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/44245/assignment/problems/362/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44245/homework/problems/1192/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/44245/homework/problems/4194/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/44245/assignment/problems/4395/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/44245/assignment/problems/1243/?navref=cl_pb_nv_tb
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/39856/homework/problems/4364?navref=cl_tt_lst_nm
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/39856/homework/problems/4363/?navref=cl_pb_nv_tb
+
+10>	https://leetcode.com/problems/strictly-palindromic-number/
+
+========================================================   AFTER THEORY COMPLETE [04/03/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/39856/assignment/problems/9014/?navref=cl_pb_nv_tb
+
+2>	https://leetcode.com/problems/permutation-in-string/
+
+3>	https://leetcode.com/problems/sliding-window-maximum/
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/39858/assignment/problems/50/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/44247/assignment/problems/9264/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/44247/assignment/problems/989/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/44245/homework/problems/4950/?navref=cl_pb_nv_tb
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/44247/assignment/problems/4369/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/44247/homework/problems/602/?navref=cl_pb_nv_tb
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/39858/assignment/problems/4365/?navref=cl_pb_nv_tb
+
+
+========================================================   AFTER THEORY COMPLETE [11/03/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/39858/homework/problems/4366/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/39856/assignment/problems/3297/?navref=cl_pb_nv_tb
+
+3>	https://leetcode.com/problems/min-stack/
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/34545/assignment/problems/4367/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34545/assignment/problems/4227/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/34545/assignment/problems/45/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/34542/assignment/problems/331/?navref=cl_pb_nv_tb
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/34545/homework/problems/39/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/34545/homework/problems/37/?navref=cl_pb_nv_tb
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/34540/homework/problems/36/?navref=cl_pb_nv_tb
+
+
+========================================================   AFTER THEORY COMPLETE [14/03/23] ==================================================
+
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34542/assignment/problems/36/submissions
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34540/assignment/problems/43/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34540/assignment/problems/4226/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/34542/homework/problems/239/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34542/homework/problems/41/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/34540/homework/problems/34/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/34542/assignment/problems/34/?navref=cl_pb_nv_tb
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/34534/homework/problems/1255/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/34534/homework/problems/884/?navref=cl_pb_nv_tb
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/34534/homework/problems/900/?navref=cl_pb_nv_tb
+
+
+========================================================   AFTER THEORY COMPLETE [17/03/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34532/homework/problems/10203?navref=cl_tt_lst_nm
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34524/homework/problems/4808/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34524/assignment/problems/1302?navref=cl_tt_lst_nm
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/34524/assignment/problems/4202?navref=cl_tt_nv
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34524/assignment/problems/298/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/34524/assignment/problems/333/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/34524/homework/problems/275?navref=cl_tt_nv
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/34546/assignment/problems/161/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/34546/assignment/problems/151/?navref=cl_pb_nv_tb
+
+10>	https://leetcode.com/problems/minimum-window-substring/
+
+
+========================================================   AFTER THEORY COMPLETE [19/03/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34467/homework/problems/1857/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34467/assignment/problems/3143/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34505/assignment/problems/203/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/34507/assignment/problems/203/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34453/homework/problems/330/?navref=cl_pb_nv_tb
+
+6>	https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/34453/homework/problems/383/?navref=cl_pb_nv_tb
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/34456/homework/problems/6527/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/34448/homework/problems/266/?navref=cl_pb_nv_tb
+
+10>	https://leetcode.com/problems/search-a-2d-matrix-ii/
+
+
+========================================================   AFTER THEORY COMPLETE [28/03/23] ==================================================
+
+1>	https://leetcode.com/problems/search-a-2d-matrix/
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34449/assignment/problems/4092/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34487/assignment/problems/1013/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/34487/assignment/problems/164?navref=cl_tt_lst_nm
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/34487/homework/problems/4199/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/34487/assignment/problems/260/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/34462/homework/problems/2126/?navref=cl_pb_nv_tb
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/34458/assignment/problems/9314/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/34505/homework/problems/196?navref=cl_tt_lst_nm
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/34507/assignment/problems/4133?navref=cl_tt_lst_nm
+
+
+========================================================   AFTER THEORY COMPLETE [01/04/23] ==================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34507/homework/problems/872/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/34507/assignment/problems/5697/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34509/assignment/problems/4129/?navref=cl_pb_nv_tb
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44273/homework/problems/211/?navref=cl_pb_nv_t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

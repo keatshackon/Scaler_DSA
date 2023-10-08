@@ -1,0 +1,342 @@
+												TOTAL NUMBER OF PROLBMES SOLVED : 135
+											===============================================
+
+
+==============================================================================   11/10/2022  =======================================================================
+
+1>	https://leetcode.com/problems/assign-cookies/
+
+2>	https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+
+3>	https://leetcode.com/problems/sum-of-unique-elements/
+
+4>	https://leetcode.com/problems/reformat-the-string/
+
+5>	https://leetcode.com/problems/intersection-of-two-arrays/
+
+6>	https://leetcode.com/problems/intersection-of-two-arrays-ii/
+
+7>	https://leetcode.com/problems/reverse-integer/       						[MED]
+
+8>	https://leetcode.com/problems/count-primes/
+
+9>	https://leetcode.com/problems/majority-element-ii/
+
+10>	https://leetcode.com/problems/most-frequent-even-element/
+
+==============================================================================   12/10/2022  =======================================================================
+
+1>	https://leetcode.com/problems/subsets/								[MED]
+
+2>	https://leetcode.com/problems/merge-two-sorted-lists/
+
+3>	https://leetcode.com/problems/sort-the-people/
+
+4>	https://leetcode.com/problems/sort-array-by-increasing-frequency/
+
+5>	https://leetcode.com/problems/maximum-number-of-pairs-in-array/
+
+6>	https://leetcode.com/problems/merge-similar-items/
+
+7>	https://leetcode.com/problems/find-peak-element/						[MED]
+
+8>	https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+
+9>	https://leetcode.com/problems/count-the-number-of-consistent-strings/
+
+10>	https://leetcode.com/problems/rings-and-rods/
+
+==============================================================================   13/10/2022  =======================================================================
+
+1>	https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+
+2>	https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
+
+3>	https://leetcode.com/problems/rotate-array/  							[MED]
+
+4>	https://leetcode.com/problems/container-with-most-water/					[MED]
+
+5>	https://leetcode.com/problems/number-of-common-factors/
+
+6>	https://leetcode.com/problems/determine-color-of-a-chessboard-square/
+
+7>	https://leetcode.com/problems/a-number-after-a-double-reversal/
+
+8>	https://leetcode.com/problems/linked-list-cycle/
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/34453/assignment/problems/195/?navref=cl_pb_nv_tb    [MED]
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/34453/assignment/problems/192/?navref=cl_pb_nv_tb
+
+==============================================================================   14/10/2022  =======================================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/34453/homework/problems/1085/?navref=cl_pb_nv_tb
+
+2>	https://leetcode.com/problems/single-number-ii/				[MED]
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/34456/assignment/problems/9184/?navref=cl_pb_nv_tb
+
+4>	https://leetcode.com/problems/single-number-iii/			[MED]
+
+5>	https://leetcode.com/problems/count-operations-to-obtain-zero/
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/34453/assignment/problems/189/?navref=cl_pb_nv_tb
+
+7>	https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+8>	https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/34545/assignment/problems/40/?navref=cl_pb_nv_tb
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/34545/assignment/problems/?navref=cl_pb_nv_tb
+
+==============================================================================   15/10/2022  =======================================================================
+
+1>	https://leetcode.com/problems/majority-element/
+
+2>	https://leetcode.com/problems/kth-largest-element-in-an-array/        [MED]
+
+3>	https://leetcode.com/problems/reverse-bits/
+
+4>	https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/    [MED]
+
+5>	https://leetcode.com/problems/search-insert-position/
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/30051/assignment/problems/4116/?navref=cl_pb_nv_tb
+
+7>	https://www.codechef.com/problems/ODDSUMPAIR
+
+8>	https://www.codechef.com/problems/DIFFCONSEC
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/30051/assignment/problems/333/?navref=cl_pb_nv_tb       [MED]
+
+10>	https://leetcode.com/problems/longest-substring-without-repeating-characters/					[MED]
+
+==============================================================================   16/10/2022  =======================================================================
+
+1>	https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/39848/assignment/problems/678/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/39848/assignment/problems/968/?navref=cl_pb_nv_tb		[MED]
+
+4>	https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/39848/assignment/problems/46/?navref=cl_pb_nv_tb
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/34519/assignment/problems/169/?navref=cl_pb_nv_tb
+
+7>	https://leetcode.com/problems/evaluate-reverse-polish-notation/			[MED]
+
+8>	https://www.scaler.com/academy/mentee-dashboard/class/39848/homework/problems/274/?navref=cl_pb_nv_tb
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/39854/assignment/problems/332/?navref=cl_pb_nv_tb
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/39854/homework/problems/263/?navref=cl_pb_nv_tb
+
+============================================================================== 17/10    =======================================================================
+
+1>	https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/39848/homework/problems/4353/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/30051/homework/problems/10640/submissions
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/39860/assignment/problems/206/?navref=cl_pb_nv_tb
+
+5>	https://leetcode.com/problems/same-tree/
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/30056/homework/problems/231/?navref=cl_pb_nv_tb
+
+7>	https://www.codechef.com/submit/STICKBREAK
+
+8>	https://www.codechef.com/submit/EQUALIZEAB
+
+9>	https://www.codechef.com/submit/FLIPCARDS
+
+10>	https://www.codechef.com/submit/PERMCREATE
+
+============================================================================== 18/10     =======================================================================
+
+1>	https://www.codechef.com/problems/DISTINCTCOL
+
+2>	https://www.codechef.com/problems/DIVIDEMAKEEQ
+
+3>	https://www.codechef.com/problems/BROKENSTRING
+
+4>	https://www.codechef.com/problems/RANGEASSIGN
+
+5>	https://leetcode.com/problems/insert-into-a-binary-search-tree/           [MED]
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/39860/homework/problems/222/?navref=cl_pb_nv_tb
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/39860/assignment/problems/214?navref=cl_tt_lst_nm
+
+8>	https://leetcode.com/problems/count-good-nodes-in-binary-tree/       [MED]
+
+9>	https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+
+10>	https://leetcode.com/problems/root-equals-sum-of-children/
+
+
+============================================================================== 19/10  =======================================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/39860/assignment/problems/214/?navref=cl_pb_nv_tb
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/39860/assignment/problems/9269/?navref=cl_pb_nv_tb
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/39860/homework/problems/9268/?navref=cl_pb_nv_tb
+
+5>	https://leetcode.com/problems/binary-tree-maximum-path-sum/          			[HARD]
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/39860/homework/problems/219/?navref=cl_pb_nv_tb      [MED]
+
+7>	https://www.scaler.com/academy/mentee-dashboard/class/39860/assignment/problems/224/?navref=cl_pb_nv_tb    [MED]
+
+8>	https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+9>	https://leetcode.com/problems/deepest-leaves-sum/						[MED]
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/39862/homework/problems/4675/?navref=cl_pb_nv_tb
+
+============================================================================== 20/10  =======================================================================
+
+1>	https://leetcode.com/problems/find-bottom-left-tree-value/					[MED]
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/39862/assignment/problems/5714?navref=cl_tt_nv
+
+3>	https://leetcode.com/problems/binary-tree-right-side-view/					[MED]
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/39862/assignment/problems/378/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/39862/assignment/problems/5715/?navref=cl_pb_nv_tb    [MED]
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/39862/assignment/problems/225/?navref=cl_pb_nv_tb
+
+7>	https://leetcode.com/problems/balanced-binary-tree/
+
+8>	https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ 			[MED]
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/39862/homework/problems/233?navref=cl_tt_nv    [MED]
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/39862/homework/problems/4677?navref=cl_tt_lst_nm 
+
+============================================================================== 21/10  =======================================================================
+
+1>	https://leetcode.com/problems/validate-binary-search-tree/
+
+2>	https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+3>	https://www.scaler.com/academy/mentee-dashboard/class/39864/assignment/problems/226?navref=cl_tt_nv
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/39876/homework/problems/4677/?navref=cl_pb_nv_tb
+
+5>	https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/	[MED]
+
+6>	https://www.scaler.com/academy/mentee-dashboard/class/39868/assignment/problems/9256?navref=cl_tt_lst_nm
+
+7>	https://leetcode.com/problems/diameter-of-binary-tree/
+
+8>	https://leetcode.com/problems/reverse-words-in-a-string/			[MED]
+
+9>	https://www.scaler.com/academy/mentee-dashboard/class/39868/session?navref=cl_tb_br
+
+10>	https://www.scaler.com/academy/mentee-dashboard/class/39873/session?navref=cl_tb_br
+
+============================================================================== 22/10  =======================================================================
+
+1>	https://www.scaler.com/academy/mentee-dashboard/class/39876/homework/problems/9268/?navref=cl_pb_nv_tb      [MED]
+
+2>	https://www.scaler.com/academy/mentee-dashboard/class/39876/homework/problems/9269/?navref=cl_pb_nv_tb	[MED]
+
+3>	https://leetcode.com/problems/odd-even-linked-list/				[MED]
+
+4>	https://www.scaler.com/academy/mentee-dashboard/class/44255/assignment/problems/4035/?navref=cl_pb_nv_tb
+
+5>	https://www.scaler.com/academy/mentee-dashboard/class/44255/assignment/problems/30/?navref=cl_pb_nv_tb
+
+6>	https://leetcode.com/problems/perfect-squares/					[MED]
+
+7>	https://leetcode.com/problems/n-queens-ii/					[HARD]
+
+8>	https://leetcode.com/problems/n-queens/						[HARD]
+
+9>	https://leetcode.com/problems/letter-combinations-of-a-phone-number/    [MED]
+
+10>	https://leetcode.com/problems/combination-sum/					[MED]
+
+============================================================================== 23/10  =======================================================================
+
+1>	https://leetcode.com/problems/combination-sum-ii/				[MED]
+
+2>	https://leetcode.com/problems/generate-parentheses/				[MED]
+
+3>	https://leetcode.com/problems/permutations/					[MED]
+
+4>	https://leetcode.com/problems/house-robber/					[MED]
+
+5>	https://leetcode.com/problems/house-robber-ii/					[MED]
+
+6>	https://leetcode.com/problems/unique-paths/					[MED]
+
+7>	https://leetcode.com/problems/unique-paths-ii/					[MED]
+
+8>	https://leetcode.com/problems/triangle/						[MED]
+
+9>	https://leetcode.com/problems/find-subarrays-with-equal-sum/
+
+10>	https://leetcode.com/problems/partition-equal-subset-sum/			[med]
+
+============================================================================== 24/10  =======================================================================
+
+1>	https://leetcode.com/problems/coin-change/					[MED]
+
+2>	https://leetcode.com/problems/longest-common-subsequence/			[MED]
+
+3>	https://leetcode.com/problems/edit-distance/					[HARD]
+
+4>	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/		[MED]
+
+5>	https://leetcode.com/problems/combination-sum-iii/				[MED]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
