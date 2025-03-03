@@ -56,9 +56,9 @@
         for (int i = 0; i < names.size(); ++i) {
             idx[i] = i;
         }
-        // u can use entirely different entity in sort laamda function, here using height vector.
+        // u can use entirely different entity in sort lambda function, here using height vector.
         sort(idx.begin(), idx.end(), [&](int i, int j) {
-            return heights[i] > heights[j];        // here
+            return heights[i] > heights[j];        // here height is a vector.
         });
         
         
